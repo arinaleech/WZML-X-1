@@ -43,3 +43,7 @@ uv
 uvloop
 xattr
 yt-dlp
+pytz
+ffmpeg 
+yt-dlp 
+ffmpeg-python 
